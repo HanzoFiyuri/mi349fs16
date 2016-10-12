@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+body {
+	width: 761px;
+	margin: 1.5em auto;
+	border-color: #00AFEF;
+	border-style: solid;
+	border-width: 10px;
+	padding: 50px;
+	background-color: #FFFFFF ;
+	}
+
+html {
+background-color: #1034A8;}
+
+.heading {
+	font-family: Helvetica, sans-serif;
+	text-align: center;
+	background-color: #AAA0ED;
+	color: #2A15E3;
+}
+
+#welcome {
+font-family: "Calibri", sans-serif;
+color: #300177;
+}
+
+#nextpage {
+font-family: "Times New Roman", serif;
+color: #aa0518;
+}
+
+.navclass {
+	font-family: inherit;
+	list-style-type: none;
+	font-weight: bold;
+	text-align: center;
+  color: #0050F1
+}
+
+.navclass li {
+	display: inline;
+	background-color: #cfd1f7;
+	border-style: solid;
+	border-color: #0005a5;
+	padding: 5px;
+}
+
+.navclass:hover {
+	text-decoration: none;
+	color: #5600B4;
+}
