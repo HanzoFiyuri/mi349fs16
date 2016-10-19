@@ -1,0 +1,81 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+      <title>3 Recipes</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="stylesheet" href="screen.css"/>
+        <script src="js/index.js"></script>
+</head>
+
+<body>
+  <h1>Kenny Nao's 3 Recipes</h1>
+    <section>
+      <h2>Onigiri</h2>
+        <img src="onigiri.jpg"  width="300" height="300" alt="rice ball"/>
+          <ul>
+            <li>2 cups of rice</li>
+            <li>Salt</li>
+            <li>Teriyaki nori seaweed strips</li>
+            <li>Optional: Fillings (pickled fruits, cooked fish, etc.)</li>
+          </ul>
+          <p>Serves for 3 people</p>
+          <ol>
+            <li>Once rice is rinsed, put the rice in a rice cooker and add water until it reaches the first knuckle on your index finger from the top of the rice. (If you do not own a rice cooker, boil 2 cups of water in a medium sized pot, then bring the heat down to low. Add 1.5 cups of rice, cover and let it simmer for 20 minutes. Take it off the heat, and, while still covered, let it stand for 10 minutes. Fluff it with a fork, and your rice is done!)</li>
+            <li>Let the rice cool, until you can hold it in your hands comfortably.</li>
+            <li>Wet your hands with water and sprinkle them with salt.</li>
+            <li>Scoop out a handful of rice with your hands, bend your hands in 90 degree angles, and start molding it into a triangle shape (spinning it in your hands, and flipping it around the y-axis to flatten the sides).</li>
+            <li>Optional: Once your triangle is made, indent the center of large face of the rice triangle, and place your filling inside that indent.</li>
+            <li>Take a strip of teriyaki nori, and wrap the bottom part of the triangle</li>
+            <li>Repeat steps 3-6</li>
+          </ol>
+    </section>
+
+    <section>
+      <h2>Tonkatsu</h2>
+        <img src="tonkatsu.jpg" width="300" height="300" alt="tonkatsu">
+          <ul>
+            <li>2 pork chops</li>
+            <li>1 box of panko bread crumbs (you will not use all of it)</li>
+            <li>3 eggs</li>
+            <li>1 bottle of vegetable oil (you will not use all of it)</li>
+          </ul>
+          <p>Serves 2 people</p>
+          <ol>
+            <li>Put oil into frying pan, until it is 1/4 inch from the surface, and heat the oil.</li>
+            <li>Slice up pork chops into 1/2 inch slices.</li>
+            <li>Break 3 eggs and place them in a bowl.</li>
+            <li>Whisk eggs until thoroughly mixed.</li>
+            <li>Fill a container with panko bread crumbs.</li>
+            <li>Individually and thoroughly coat the pork chop slices in the eggs, followed by coating it in the panko breading.</li>
+            <li>Place the coated strips into the oil and let it cook, until the side is golden brown, then flip it.</li>
+            <li>Once both sides are golden brown, cut it and check to make sure it is white and cooked (you will be cooking multiple at a time, so you really just need to check one or two)</li>
+            <li>Once positive that it is completely cooked, take it out of the pan and serve!</li>
+            <li>If you have store-bought tonkatsu sauce, you can add that on to the tonkatsu, along with a rice side dish.</li>
+          </ol>
+    </section>
+
+    <section>
+      <h2>Roasted Potatoes</h2>
+        <img src="potatoes.jpg" width="300" height="300" alt="potatoes">
+          <ul>
+            <li>7-8 red potatoes</li>
+            <li>Salt</li>
+            <li>Pepper</li>
+            <li>Spray oil/Spray butter</li>
+          </ul>
+          <p>Serves 2 people</p>
+          <ol>
+            <li>Preheat the oven to 425 degrees.</li>
+            <li>Slice up the red potatoes into halves (or quarters if they are big).</li>
+            <li>Spray the bottom of a metal bake sheet with the spray oil/butter.</li>
+            <li>Place potatoes onto the bake sheet and spray them with the spray oil/butter.</li>
+            <li>Sprinkle the potatoes with salt and pepper.</li>
+            <li>Put the tray into the oven, and let it bake for 40 minutes, or until golden brown.</li>
+            <li>Take it out of the oven and let it cool for 3 minutes, then serve.</li>
+          </ol>
+    </section>
+</body>
+</html>

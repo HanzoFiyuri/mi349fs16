@@ -1,0 +1,56 @@
+@charset "UTF-8";
+
+body {
+	width: 761px;
+	margin: 1.5em auto;
+	border-color: #ff2323;
+	border-style: solid;
+	border-width: 10px;
+	padding: 50px;
+	background-color: #ada2a2;
+	}
+
+	section {
+		width: 600px;
+		margin: 1.5em auto;
+		padding: 20px;
+		border-color: #ff2323;
+		border-style: solid;
+		border-radius: 30px;
+		box-shadow: 8px 8px 5px #888888;
+		background: linear-gradient(135deg, white, gray);
+	}
+
+	h1 {
+		text-align: center;
+		font-family: "Yanone Kaffeesatz", sans-serif;
+		background-color: #f93e3e;
+		padding: 10px;
+		margin: 60px;
+		border-radius: 10px;
+	}
+
+	h2 {
+		font-family: Helvetica, sans-serif;
+	}
+
+	ul {
+		font-family: Helvetica, sans-serif;
+	}
+
+	ol {
+		font-family: Helvetica, sans-serif;
+	}
+
+	p {
+		font-family: Helvetica, sans-serif;
+	}
+
+html {
+background-color: #680202;}
+
+img {
+	border-style: solid;
+	border-radius: 60px;
+	border-color: #cc0000;
+}
